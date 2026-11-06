@@ -1,4 +1,4 @@
-Building Foglight AI
+# Building Foglight AI
 
 I'm the founder of **Foglight AI**, an independent project exploring how AI can strengthen human judgment while improving organizational performance.
 
@@ -12,19 +12,4 @@ Foglight is a model-independent **evidence and decision-assurance system**. Its 
 
 I'm especially interested in organizations where better AI can help people become **more capable independent decision-makers**, rather than passive approvers of automated answers.
 
-**Project status:** Active development. Core source code and detailed technical materials remain in private repositories; this profile is a public overview.## Hi there 👋
-
-<!--
-**pranavb99/pranavb99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Project status:** Active development. Core source code and detailed technical materials remain in private repositories; this profile is a public overview.
