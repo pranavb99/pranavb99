@@ -1,3 +1,5 @@
+![Foglight AI clarity mark](assets/Foglight-AI-Clarity-Mark.png)
+
 # Building Foglight AI
 
 I'm the founder of **Foglight AI**, an independent project exploring how AI can strengthen human judgment while improving organizational performance.
