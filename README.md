@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/Foglight-AI-Clarity-Mark.png" alt="Foglight AI clarity mark" width="40%">
 </p>
-![Foglight AI clarity mark](assets/Foglight-AI-Clarity-Mark.png)
 
 # Building Foglight AI
 
